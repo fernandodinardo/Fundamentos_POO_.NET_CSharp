@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Fundamentos_DotNet_POO_PilaresPoo/1.0.0": {
+        "runtime": {
+          "Fundamentos_DotNet_POO_PilaresPoo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fundamentos_DotNet_POO_PilaresPoo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\devs\DIO\BootCamp_GFT_dotnet\Fundamentos_DotNet_POO_PilaresPoo\bin\Debug\net5.0\Fundamentos_DotNet_POO_PilaresPoo.exe
+D:\devs\DIO\BootCamp_GFT_dotnet\Fundamentos_DotNet_POO_PilaresPoo\bin\Debug\net5.0\Fundamentos_DotNet_POO_PilaresPoo.deps.json
+D:\devs\DIO\BootCamp_GFT_dotnet\Fundamentos_DotNet_POO_PilaresPoo\bin\Debug\net5.0\Fundamentos_DotNet_POO_PilaresPoo.runtimeconfig.json
+D:\devs\DIO\BootCamp_GFT_dotnet\Fundamentos_DotNet_POO_PilaresPoo\bin\Debug\net5.0\Fundamentos_DotNet_POO_PilaresPoo.runtimeconfig.dev.json
+D:\devs\DIO\BootCamp_GFT_dotnet\Fundamentos_DotNet_POO_PilaresPoo\bin\Debug\net5.0\Fundamentos_DotNet_POO_PilaresPoo.dll
+D:\devs\DIO\BootCamp_GFT_dotnet\Fundamentos_DotNet_POO_PilaresPoo\bin\Debug\net5.0\Fundamentos_DotNet_POO_PilaresPoo.pdb
+D:\devs\DIO\BootCamp_GFT_dotnet\Fundamentos_DotNet_POO_PilaresPoo\obj\Debug\net5.0\Fundamentos_DotNet_POO_PilaresPoo.csproj.AssemblyReference.cache
+D:\devs\DIO\BootCamp_GFT_dotnet\Fundamentos_DotNet_POO_PilaresPoo\obj\Debug\net5.0\Fundamentos_DotNet_POO_PilaresPoo.GeneratedMSBuildEditorConfig.editorconfig
+D:\devs\DIO\BootCamp_GFT_dotnet\Fundamentos_DotNet_POO_PilaresPoo\obj\Debug\net5.0\Fundamentos_DotNet_POO_PilaresPoo.AssemblyInfoInputs.cache
+D:\devs\DIO\BootCamp_GFT_dotnet\Fundamentos_DotNet_POO_PilaresPoo\obj\Debug\net5.0\Fundamentos_DotNet_POO_PilaresPoo.AssemblyInfo.cs
+D:\devs\DIO\BootCamp_GFT_dotnet\Fundamentos_DotNet_POO_PilaresPoo\obj\Debug\net5.0\Fundamentos_DotNet_POO_PilaresPoo.csproj.CoreCompileInputs.cache
+D:\devs\DIO\BootCamp_GFT_dotnet\Fundamentos_DotNet_POO_PilaresPoo\obj\Debug\net5.0\Fundamentos_DotNet_POO_PilaresPoo.dll
+D:\devs\DIO\BootCamp_GFT_dotnet\Fundamentos_DotNet_POO_PilaresPoo\obj\Debug\net5.0\refint\Fundamentos_DotNet_POO_PilaresPoo.dll
+D:\devs\DIO\BootCamp_GFT_dotnet\Fundamentos_DotNet_POO_PilaresPoo\obj\Debug\net5.0\Fundamentos_DotNet_POO_PilaresPoo.pdb
+D:\devs\DIO\BootCamp_GFT_dotnet\Fundamentos_DotNet_POO_PilaresPoo\obj\Debug\net5.0\Fundamentos_DotNet_POO_PilaresPoo.genruntimeconfig.cache
+D:\devs\DIO\BootCamp_GFT_dotnet\Fundamentos_DotNet_POO_PilaresPoo\obj\Debug\net5.0\ref\Fundamentos_DotNet_POO_PilaresPoo.dll
